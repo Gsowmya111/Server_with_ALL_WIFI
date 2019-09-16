@@ -255,7 +255,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="onClick"
-                android:text="Start Server" />
+                android:text="First Start Server" />
 
             <TextView
                 android:id="@+id/status"
